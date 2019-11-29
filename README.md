@@ -15,8 +15,11 @@
 
 
 Enviorment:
+
 tesnorflow 1.15.0
+
 pytorch 1.3.1
+
 可直接在colab python3.6 GPU上運行
 
 
